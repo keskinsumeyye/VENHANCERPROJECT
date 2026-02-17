@@ -15,7 +15,7 @@ Proje, kodun tekrar kullanılabilirliğini artırmak ve bakımı kolaylaştırma
 * **Pages:** Her web sayfası (Home, Listing, Product, Cart) kendine ait bir Java sınıfına sahiptir.
 * **StepDefinitions:** Gherkin dilindeki senaryo adımlarının teknik karşılıklarını barındırır.
 
-## 📋 Çalıştırma Talimatları
+##  Çalıştırma Talimatları
 * **IDE Kullanımı:** Projeyi **IntelliJ IDEA** veya **Eclipse** ile açın.
 * **Bağımlılıklar:** Maven bağımlılıklarının (`pom.xml`) yüklenmesini bekleyin.
 * **Çalıştırma:** `src/test/java` altındaki **Runner** sınıfına sağ tıklayıp "Run" yapın veya doğrudan `.feature` dosyası üzerinden testi başlatın.
